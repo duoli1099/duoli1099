@@ -1,8 +1,9 @@
-### Boas vindas ao meu perfil 💙
+ ### Boas vindas ao meu perfil 💙⭐
 
 Meu nome é Eduarda de Oliveira
 
-- Estou estudando na Alura
+- Sou aluna do primeiro ano
+- Estou utilizando o [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem de JavasScript
 - Utilizo esse espaço para  minha organização e compartilhamento dos meus projetos desenvolvidos
 
